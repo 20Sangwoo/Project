@@ -1,4 +1,4 @@
-package first;
+package _1st;
 
 public class Sorry {
 	public static void main(String[] args) {

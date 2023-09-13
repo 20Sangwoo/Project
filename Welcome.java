@@ -1,4 +1,4 @@
-package first;
+package _1st;
 
 public class Welcome {
 	public static void main(String[] args) {
